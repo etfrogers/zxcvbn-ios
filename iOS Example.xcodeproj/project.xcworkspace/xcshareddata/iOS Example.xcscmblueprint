@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6F1D88DD2F0D58B5AAC6B50172E9E48A750F45C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "843FEC4E771D13061A04D21FCA02D24CB10C374B" : 9223372036854775807,
+    "6F1D88DD2F0D58B5AAC6B50172E9E48A750F45C8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "27CBBEE4-65BA-4F17-BDD9-5EAACC6205D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "843FEC4E771D13061A04D21FCA02D24CB10C374B" : "",
+    "6F1D88DD2F0D58B5AAC6B50172E9E48A750F45C8" : "zxcvbn-ios\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS Example",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS Example.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:etfrogers\/zxcvbn-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F1D88DD2F0D58B5AAC6B50172E9E48A750F45C8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mstarke\/MacPass",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "843FEC4E771D13061A04D21FCA02D24CB10C374B"
+    }
+  ]
+}
